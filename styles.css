@@ -109,7 +109,7 @@ main {
     width: 0;
     height: 0;
     border-radius: 50%;
-    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    background: linear-gradient(135deg, #6366f1, #9589b1);
     transition: all 0.5s ease;
     transform: translate(-50%, -50%);
     z-index: 0;
@@ -407,4 +407,5 @@ footer p:last-child {
     .container {
         padding: 0 15px;
     }
+
 }
